@@ -76,6 +76,10 @@
 img.nav {
     width: 95px;
 }
+
+a#navbarDropdown {
+  padding-right: 15px;
+}
   a, a:hover, a:active, a:focus {
     outline: 0;
     border: 0;
@@ -1567,7 +1571,8 @@ img.nav {
 /* 20. CONTACT */
 
   .contact {
-    background-color: #fff;
+    background-color: #186474;
+    color: #fff;
     padding: 80px 0;
   }
 
