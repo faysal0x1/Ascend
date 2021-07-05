@@ -1665,13 +1665,13 @@ img.nav {
 
   @media (min-width: 768px) and (max-width: 991px) {
 
-    / 6. PRODUCT /
+    /* / 6. PRODUCT / */
     
     .ds-product {
       margin-top: 40px;
     }
 
-    / 8. ICONS /
+    /* / 8. ICONS / */
 
     .ds-icon-box-three,
     .ds-icon-box-four {
@@ -1682,7 +1682,7 @@ img.nav {
 
   @media (max-width: 991px) {
 
-    / 6. PRODUCT /
+    /* / 6. PRODUCT / */
     
     .ds-product-button-left, .ds-product-button-right {
       height: auto;
@@ -1692,13 +1692,13 @@ img.nav {
       margin-top: 40px;
     }
 
-    / 13. PHOTOS / TEXTS /
+    /* / 13. PHOTOS / TEXTS / */
 
     .ds-photos-texts h3 {
       margin: 0;
     }
 
-    / 14. PRICING TABLE /
+    /* / 14. PRICING TABLE / */
 
     .ds-pricing-table-normal {
       width: 75%;
@@ -1717,13 +1717,13 @@ img.nav {
       margin-top: 0;
     }
 
-    / 17. TEAM /
+    /* / 17. TEAM / */
 
     .ds-team-person div p {
       font-size: 0.85em;
     }
 
-    / 18. PROJECTS /
+    /* / 18. PROJECTS / */
 
     .ds-projects .row {
       margin-bottom: 0;
@@ -1752,7 +1752,7 @@ img.nav {
 	.ds-footer-socials ul{
 		text-align: center;
 	}
-    / 5. HEADER /
+    /* / 5. HEADER / */
 
     .ds-logo,
     .ds-text-button {
@@ -1780,13 +1780,13 @@ img.nav {
       margin-top: 20px;
     }
 
-    / 6. PRODUCT /
+    /* / 6. PRODUCT / */
     
     .ds-product {
       margin-top: 40px;
     }
 
-    / 8. ICONS /
+    /* / 8. ICONS / */
 
     .ds-icon-box:first-child > div {
       margin-top: 0;
@@ -1813,7 +1813,7 @@ img.nav {
       padding: 0 20px;
     }
 
-    / 11. SUBSCRIBE /
+    /* / 11. SUBSCRIBE / */
 
     .ds-subscribe-form input[type=text],
     .ds-subscribe-form input[type=submit] {
@@ -1825,13 +1825,13 @@ img.nav {
       margin-right: 0;
     }
 
-    / 13. PHOTOS / TEXTS /
+    /* / 13. PHOTOS / TEXTS / */
 
     .ds-photos-texts-image-right {
       margin-top: 30px;
     }
 
-    / 15. JOIN NOW /
+    /* / 15. JOIN NOW / */
 
     .ds-join-now-form input[type=text] {
       width: 90%;
@@ -1839,7 +1839,7 @@ img.nav {
       margin-right: 0;
     }
 
-    / 17. TEAM /
+    /* / 17. TEAM / */
 
     .ds-team .row {
       margin-bottom: 0;
@@ -1847,3 +1847,4 @@ img.nav {
 
     .ds-team .row > div {      
       margin: 15px 0;
+    }}
